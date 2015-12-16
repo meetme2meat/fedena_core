@@ -257,7 +257,7 @@ p.flash-msg {
 #news_feed {
     width:157px;
     margin:0 auto;
-    background:#fff url(../../../images/fedena_user/dashboard/news_feed_bg.jpg) repeat;
+    background:#fff url(../../../images/mypatshala_user/dashboard/news_feed_bg.jpg) repeat;
 }
 #news_feed small {
     padding-top:0px;
@@ -267,7 +267,7 @@ p.flash-msg {
     margin:0 auto;
     margin-top:25px;
     height:36px;width:157px;
-    background:#fff url(../../../images/fedena_user/dashboard/dash_news_top.jpg) no-repeat;
+    background:#fff url(../../../images/mypatshala_user/dashboard/dash_news_top.jpg) no-repeat;
     display: block;
 }
 #news_feed_bottom_img a {

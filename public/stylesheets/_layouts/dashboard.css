@@ -254,14 +254,14 @@ p.flash-msg {
 #news_feed {
     width:157px;
     margin:0 auto;
-    background:#fff url(../../images/fedena_user/dashboard/news_feed_bg.jpg) repeat;
+    background:#fff url(../../images/mypatshala_user/dashboard/news_feed_bg.jpg) repeat;
 }
 #news_feed small {
     padding-top:0px;
     color:#b00;
 }
 #news_feed_top_img {
-    background: url("../../images/fedena_user/dashboard/dash_news_top.jpg") no-repeat scroll 0 0 #FFFFFF;
+    background: url("../../images/mypatshala_user/dashboard/dash_news_top.jpg") no-repeat scroll 0 0 #FFFFFF;
     color: #000000;
     display: block;
     font-weight: bold;
@@ -274,7 +274,7 @@ p.flash-msg {
 }
 
 #bottom_read_more {
-    background: url("../../images/fedena_user/dashboard/news_feed_more_link.jpg") no-repeat scroll 0 0 #FFFFFF;
+    background: url("../../images/mypatshala_user/dashboard/news_feed_more_link.jpg") no-repeat scroll 0 0 #FFFFFF;
     color: #FFFFFF;
     display: block;
     font-size: 13px;
